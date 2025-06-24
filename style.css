@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #1e1e2f;
+  color: #ffffff;
+  max-width: 600px;
+  margin: auto;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.form input,
+.form button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  box-sizing: border-box;
+}
+
+.form button {
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+}
+
+.form button.hapus {
+  background-color: #d9534f;
+}
+
+.form button.export {
+  background-color: #2196f3;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background: #2c2c3f;
+}
+
+th, td {
+  border: 1px solid #444;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #4caf50;
+}
