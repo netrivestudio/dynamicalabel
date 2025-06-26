@@ -1,11 +1,11 @@
 {
-  "name": "Pembukuan Harian",
+  "name": "Dynamicalabel",
   "short_name": "Pembukuan",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2b7a78",
-  "description": "Aplikasi pencatat pemasukan dan pengeluaran harian.",
+  "description": "Aplikasi Dynamicalabel",
   "icons": [
     {
       "src": "icon-192.png",
