@@ -2,9 +2,9 @@
   "name": "Dynamicalabel",
   "short_name": "Pembukuan",
 
-  "start_url": "./",
+  "start_url": "/dynamicalabel/",
 
-  "scope": "./",
+  "scope": "/dynamicalabel/",
 
   "display": "standalone",
 
@@ -18,12 +18,12 @@
 
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "/dynamicalabel/icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "/dynamicalabel/icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
